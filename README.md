@@ -4,7 +4,7 @@
 * Enlace del repositorio de GitHub: https://github.com/karimarquez/DAWfase
 * Enlace del video de presentacion: 
 * Enlace del sitio web desplegado (Netlify): https://fase2daw.netlify.app/
-* Documento drive:
+* Documento drive: https://udbedu-my.sharepoint.com/:f:/g/personal/mo262840_alumno_udb_edu_sv/IgClzSaVF2OQTZOS0Nx3WInaAZfnIaKmaQl8d0NUtDQpa6E?e=cm3hOu
 
 ## Contenido de la Entrega
 * framework react
