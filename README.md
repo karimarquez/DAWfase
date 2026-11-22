@@ -64,10 +64,6 @@ Usuarios, servicios, sesión y citas se guardan en `localStorage`. Los reportes 
 - Karen Lizeth Escalante Pérez — EP262414
 - Karina Lisseth Márquez Ortiz — MO262840
 
-## Colaboración
-
-`main` es la rama de integración. La rama `karimarquez` contiene esta entrega y corresponde a Karina Lisseth Márquez Ortiz (MO262840). Los demás integrantes deben trabajar en ramas propias y aportar con sus cuentas; no se atribuyen commits de un integrante a otro.
-
 ## Licencia
 
 El código y la documentación originales de este proyecto se ofrecen bajo **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. Revisa [LICENSE](./LICENSE) y el [texto legal oficial](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Las dependencias y materiales externos conservan sus propias licencias y atribuciones.
