@@ -26,7 +26,10 @@ Aplicación web para explorar servicios de belleza, reservar citas y administrar
 - Chart.js y react-chartjs-2
 - SweetAlert2
 - Open-Meteo y OpenStreetMap
-
+- LocalStorage
+- HTML5 y CSS3
+- API de Stripe
+  
 ## Requisitos y ejecución local
 
 Se requiere Node.js 18 o posterior y npm.
