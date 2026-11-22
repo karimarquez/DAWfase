@@ -66,7 +66,7 @@ Usuarios, servicios, sesión y citas se guardan en `localStorage`. Los reportes 
 
 ## Colaboración
 
-`main` es la rama de integración. Para esta entrega, la rama individual de Erasmo es `erasmo` (BV253222). Cada integrante debe trabajar con su propia cuenta y rama; no se atribuyen commits de un integrante a otro.
+`main` es la rama de integración. La rama `karimarquez` contiene esta entrega y corresponde a Karina Lisseth Márquez Ortiz (MO262840). Los demás integrantes deben trabajar en ramas propias y aportar con sus cuentas; no se atribuyen commits de un integrante a otro.
 
 ## Licencia
 
