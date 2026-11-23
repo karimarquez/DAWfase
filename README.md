@@ -63,7 +63,7 @@ Usuarios, servicios, sesión y citas se guardan en `localStorage`. Los reportes 
 
 ## Equipo
 
-- Laureano Erasmo Barillas Valladares — BV253222
+
 - Karen Lizeth Escalante Pérez — EP262414
 - Karina Lisseth Márquez Ortiz — MO262840
 
